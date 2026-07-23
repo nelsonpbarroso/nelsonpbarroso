@@ -4,7 +4,7 @@ Estudante de Ciência da Computação na UNAMA
 
 Belém - PA, Brasil
 
-Atualmente buscando minha primeira oportunidade na área de TI.
+Desenvolvendo projetos práticos e aprimorando minhas habilidades enquanto busco minha primeira oportunidade na área de TI.
 
 
 Tecnologias
