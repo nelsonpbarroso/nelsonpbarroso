@@ -9,29 +9,23 @@
 
 🚀 Tecnologias
 
-- Flutter
-- Dart
-- Firebase
-- React
-- Git
-- GitHub
-- Microsoft Windows
-- Redes de Computadores
-- Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,git,github,vscode,mysql,java" />
+</p>
 
 
-📚 Atualmente estudando
+💡 Áreas de Interesse
 
-- Desenvolvimento Mobile com Flutter
-- Engenharia de Software
-- Redes de Computadores
+- Desenvolvimento Mobile
 - Desenvolvimento Web
+- Suporte de TI
+- Redes de Computadores
 - Inteligência Artificial
 
 
 📂 Projetos
 
-- 🏦 Banco Digital em Flutter
+- 🏦 Banco Digital Flutter
 - 🏥 Sistema de Gestão Hospitalar
 - 🎫 Sistema de Help Desk *(Em desenvolvimento)*
 
@@ -43,3 +37,4 @@
 💼 LinkedIn
 
 https://linkedin.com/in/nelsonpbarroso
+
