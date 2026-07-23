@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Nelson Barroso
 
-<!--
-**nelsonpbarroso/nelsonpbarroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação na UNAMA
 
-Here are some ideas to get you started:
+📍 Belém - PA, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Atualmente buscando minha primeira oportunidade na área de TI.
+
+
+🚀 Tecnologias
+
+- Flutter
+- Dart
+- Firebase
+- React
+- Git
+- GitHub
+- Microsoft Windows
+- Redes de Computadores
+- Banco de Dados
+
+
+📚 Atualmente estudando
+
+- Desenvolvimento Mobile com Flutter
+- Engenharia de Software
+- Redes de Computadores
+- Desenvolvimento Web
+- Inteligência Artificial
+
+
+📂 Projetos
+
+- 🏦 Banco Digital em Flutter
+- 🏥 Sistema de Gestão Hospitalar
+- 🎫 Sistema de Help Desk *(Em desenvolvimento)*
+
+
+📫 Contato
+
+📧 nelsonpaulosantiagobarroso@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/nelsonpbarroso
