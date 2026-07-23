@@ -1,20 +1,20 @@
-# Olá! 👋 Eu sou Nelson Barroso
+Olá! Eu sou Nelson Barroso
 
-💻 Estudante de Ciência da Computação na UNAMA
+Estudante de Ciência da Computação na UNAMA
 
-📍 Belém - PA, Brasil
+Belém - PA, Brasil
 
-🎯 Atualmente buscando minha primeira oportunidade na área de TI.
+Atualmente buscando minha primeira oportunidade na área de TI.
 
 
-🚀 Tecnologias
+Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,git,github,vscode,mysql,java" />
 </p>
 
 
-💡 Áreas de Interesse
+Áreas de Interesse
 
 - Desenvolvimento Mobile
 - Desenvolvimento Web
@@ -23,18 +23,18 @@
 - Inteligência Artificial
 
 
-📂 Projetos
+Projetos
 
-- 🏦 Banco Digital Flutter
-- 🏥 Sistema de Gestão Hospitalar
-- 🎫 Sistema de Help Desk *(Em desenvolvimento)*
+-  Banco Digital Flutter
+-  Sistema de Gestão Hospitalar
+-  Sistema de Help Desk *(Em desenvolvimento)*
 
 
-📫 Contato
+Contato
 
-📧 nelsonpaulosantiagobarroso@gmail.com
+nelsonpaulosantiagobarroso@gmail.com
 
-💼 LinkedIn
+LinkedIn
 
 https://linkedin.com/in/nelsonpbarroso
 
